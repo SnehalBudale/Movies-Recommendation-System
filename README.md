@@ -95,5 +95,3 @@ Snehal Budale
 Final Year Engineering Student | AI & Data Science
 
 ---
-
-If you want, I can now give you a **final GitHub project list (all your projects with short descriptions)** — this will make your profile look strong for placements.
